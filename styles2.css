@@ -1,0 +1,28 @@
+.banner-footer {
+  background-color: rgb(100, 28, 0);
+}
+
+.banner-height {
+  height: 100px;
+}
+
+.top-menu {
+  background-color: rgb(150, 100, 80);
+}
+
+.left-menu {
+  background-color: rgb(255, 196, 0);
+}
+
+.foto-impar {
+  background-color: rgb(212, 27, 67);
+}
+
+.foto-par {
+  background-color: rgb(50, 38, 214);
+}
+
+.contenido {
+  background-color: rgb(199, 199, 199);
+  height: 150px;
+}
